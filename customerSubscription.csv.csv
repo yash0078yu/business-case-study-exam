@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Gender,SubscriptionType,SubscriptionDate,LastLoginDate,TotalSessions,FeedbackScore,IsChurned
+101,Aarav Mehta,22,Male,Monthly,1/10/2026,5/20/2026,12,8,0
+102,Diya Patel,19,Female,Monthly,2/15/2026,3/10/2026,3,2,1
+103,Kabir Shah,34,Male,Yearly,6/1/2025,5/27/2026,45,9,0
+104,Isha Joshi,25,Female,Quarterly,11/20/2025,2/15/2026,4,3,1
+105,Rohan Das,42,Male,Yearly,8/12/2025,5/25/2026,30,7,0
+106,Meera Nair,21,Female,Monthly,3/1/2026,3/15/2026,2,4,1
+107,Devika Sen,29,Female,Quarterly,1/5/2026,5/22/2026,18,8,0
+108,Yash Patel,24,Male,Monthly,2/1/2026,12/20/2025,1,2,1
+109,Ananya Rao,31,Female,Yearly,5/10/2025,5/26/2026,50,10,0
+110,Siddharth,48,Male,Quarterly,9/15/2025,4/1/2026,8,5,0
